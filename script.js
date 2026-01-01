@@ -1,8 +1,7 @@
-const profile = {
-    fullname: "Dawa tashi Sherpa",
-    followers: 170,
-    following: 80,
-    post: 0,
-    
+//create prompt
+let num = prompt("Enter your grade ");
+if (num<30) {
+    console.log("you are fail");
+} else if (num<40){
+    console.log("B");
 }
-console.log(profile);
