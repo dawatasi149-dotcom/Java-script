@@ -1,5 +1,13 @@
-*{
-    background-color: black;
+.dark{
+    background-color:black;
     color: white;
-    
+}
+.light{
+    background-color:white;
+    color: black;
+}
+
+button{
+    background-color: green;
+    color: whitesmoke;
 }
